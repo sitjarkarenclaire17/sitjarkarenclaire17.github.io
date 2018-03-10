@@ -1,0 +1,134 @@
+.page-header 
+{
+margin: 0 0 0 0; 
+padding: 0 0 0 0;
+}
+
+.pgh1 
+{
+font-family: Sofia; 
+text-align: center;
+}
+
+.life
+{
+text-align: center; 
+font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#row1
+{	
+ margin-top: 10px;
+}
+
+img {
+opacity: 0.8;
+}
+img:hover {
+opacity: 1.0;
+}
+
+#divi {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ opacity: 1.0;
+}
+
+
+
+.jumbotron
+{
+background-color: #f2f2f2;
+}
+
+.jumbotron p
+{
+font-size: 15px;
+}
+
+#jumboart2
+{
+margin-top: -75px;
+}
+
+#abp
+{
+font-size: 12px;
+}
+
+#content
+{
+background-color: #fff;
+margin-top: 60px;	
+}
+
+#div2
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+opacity: 0.9;
+margin-top: -12px;
+margin-bottom: -30px;
+width: 50%;	
+}
+
+#latest
+{
+text-align: center;
+font-family: 'Julius Sans One', sans-serif;
+font-size: 25px;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+
+h2
+{
+font-family: Sofia;
+}
+
+#article1
+{
+width:100%;	
+text-align: justify;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#ar1img
+{
+display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 20px;
+ opacity: 1.0;
+ align: middle;
+ width: 100%;
+ height: 350px;
+}	
+
+#article2
+{
+width:100%;	
+text-align: justify;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}	
+
+#aboutme
+{
+font-family: 'Libre Barcode 39 Extended Text', cursive;
+font-size: 30px;
+}
+
+#aboutimg
+{
+display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: auto;
+ margin-top: auto;
+ opacity: 1.0;
+ align: middle;
+width: 200px;
+height: 220px;	
+}
